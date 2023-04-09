@@ -1,1 +1,1 @@
-console.log('fungsi a');
+console.log('fungsi s');
